@@ -1,0 +1,39 @@
+/* CartItems.css */
+
+.cartitems {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .cartitems .carticon-product-icon {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .cartitems .cartitems-remove-icon {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+  }
+  
+  .cartitems .cartitems-quantity {
+    width: 50px;
+  }
+  
+  .cartitems-total {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cartitems-promocode .input-group {
+    margin-top: 10px;
+  }
+  
+  .cartitems-promocode input {
+    border-radius: 0.25rem;
+  }
+  
+  .cartitems-promocode button {
+    border-radius: 0.25rem;
+  }
+  
